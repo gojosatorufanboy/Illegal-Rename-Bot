@@ -88,7 +88,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ILLGELA_DEVELOPER🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-»<a href=https://t.me/Beautyofsupportbot>**ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ**</a>🕷
+»<a href=https://t.me/Beautyofsupportbot>**🄰🄰🅂🄷🄸🅂🄷🄾🄵🄵🄸🄲🄰🄸🄻**</a>😎
 »**Beauty of the movies ♡**"""
 
     PROGRESS_BAR = """<b>\n
