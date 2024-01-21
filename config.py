@@ -58,8 +58,8 @@ class Txt(object):
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Beautyofsupportbot>**ɪʟʟᴇɢᴀʟ ᴅᴇᴠᴇʟᴏᴘᴇʀ**</a> 🕷
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : **ᴋᴜɴᴀʟ ꜱɪɴɢʜ**
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Beautyofsupportbot>**ʙᴇᴀᴜᴛʏ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇꜱ**</a> 🕷
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : **░▒▓█ ᴀꜱʜɪꜱʜ █▓▒░**
 ╰───────────────⍟ """
 
     HELP_TXT = """
