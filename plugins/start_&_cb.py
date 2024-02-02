@@ -73,7 +73,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("≛ ᴏᴡɴᴇʀ", url="https://t.me/gojo830")
                 ],[
-                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url='https://t.me/Beautyofsupportbot')
+                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url='https://t.me/+YsH0tSEtVSE4OTg1')
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -85,9 +85,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("≛ ᴏᴡɴᴇʀ", url="https://t.me/beautyofthemoviesx")
+                InlineKeyboardButton("≛ ᴏᴡɴᴇʀ", url="https://t.me/devilcartoonsoffical")
                 ],[
-                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url="https://t.me/Beautyofsupportbot")
+                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url="≛ ᴏᴡɴᴇʀ", url="")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -99,9 +99,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("≛ ᴏᴡɴᴇʀ", url="https://t.me/beautyofthemoviesx")
+                InlineKeyboardButton("≛ ᴏᴡɴᴇʀ", url="https://t.me/devilcartoonsoffical")
                 ],[
-                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url="https://t.me/Beautyofsupportbot")
+                InlineKeyboardButton("🧐 ʀᴇᴘᴏʀᴛ ᴀʙᴜꜱᴇ", url="https://t.me/+YsH0tSEtVSE4OTg1")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
